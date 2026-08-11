@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-v5sg5q.shadowdiary.com/sitemap.xml
